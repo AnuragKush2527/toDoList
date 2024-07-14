@@ -1,4 +1,4 @@
-# Minor-Projects
+# toDoList App
 
 A ToDoList to manage your daily routine.
 
